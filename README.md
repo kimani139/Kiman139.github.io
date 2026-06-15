@@ -17,6 +17,6 @@
   <h1>Kimani</h1>
   <p>Web Developer from Ruiru, Kenya 🇰🇪</p>
   <p>I build websites from my phone.</p>
-  <a class="btn" href="https://wa.me/2547XXXXXXXX">WhatsApp Me</a>
+  <a class="btn" href="https://wa.me/2540119786203">WhatsApp Me</a>
 </body>
 </html>
